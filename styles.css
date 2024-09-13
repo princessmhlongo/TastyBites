@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(6, 72, 76);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+    margin: 20px 0;
+}
+
+p {
+    font-family: 'Lucida Sans', sans-serif;
+    color: white;
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(rgb(2, 2, 2));
+    text-align: center;
+}
